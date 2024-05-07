@@ -1,6 +1,6 @@
-Alzheimer-model.code.tar.gz - "All pictures, input data, and drawing program scripts within this article."
+Alzheimer-model.code.tar.gz - "The excerpt of the code from the data analysis process in this paper."
 
-Figure 1-6, S1-S11, input_data and code.rar - "The excerpt of the code from the data analysis process in this paper."
+Figure 1-6, S1-S11, input_data and code.rar - "All pictures, input data, and drawing program scripts within this article."
 
 Supplementary Data S1 - Assembled Transcripts Sequences.zip - "Assembly of all transcribed sequence information."
 
