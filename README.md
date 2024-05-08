@@ -1,4 +1,4 @@
-                                                    "Code, Figures, Graph Input Data, Supplementary Data for AD Model Article"
+                  "Code, Figures, Graph Input Data, Supplementary Data for AD Model Article"
 
 CODE:
 1. Alzheimer-model-pipeline-code-1.tar.gz - Framework Code for AD Model Construction Workflow
