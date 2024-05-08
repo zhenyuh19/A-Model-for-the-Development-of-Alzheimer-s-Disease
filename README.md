@@ -1,3 +1,5 @@
+"Code, Figures, Graph Input Data, Supplementary Data for AD Model Article"
+
 CODE:
 1. Alzheimer-model-pipeline-code-1.tar.gz - Framework Code for AD Model Construction Workflow
 
@@ -5,7 +7,7 @@ CODE:
 
 3. Alzheimer-model-pipeline-code-3-pseudotime.tar.gz - Code for Pseudo-Temporal Construction of AD Models
 
-FIGURE:
+FIGURES:
 1. Figure 1-6, S1-S11, input_data and code.rar - All pictures, input data, and drawing program scripts within this article
 
 Supplementary Data:
