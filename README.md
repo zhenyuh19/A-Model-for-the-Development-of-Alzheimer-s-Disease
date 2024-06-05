@@ -1,2 +1,2 @@
 # A-Model-for-the-Development-of-Alzheimer-s-Disease
-A Model for the Development of Alzheimer’s Disease - Supplementary Data
+Elucidating the Functional Roles of Long Non-coding RNAs in Alzheimer's Disease
